@@ -1,4 +1,4 @@
-#include "classes.h"
+#include "classes.h" 
 
 void AndGate::seta(int n){
     if (n) a = 1;
