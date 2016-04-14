@@ -10,7 +10,7 @@
 #include <fstream> // για είσοδο/έξοδο από αρχεία
 #include <iostream> //για το είσοδο και έξοδο στην οθόνη
 #include <string> // τύπος string και stod (c++11).
-#include <vector> //Για τα vectors
+#include <vector> //Για τα vectors 
 #include <stdexcept> //Περιέχει την invalid_argument που "πετάει" η stod σε περίπτωση που δεν μπορέσει να μετατρέψει σε double το string.
 
 using namespace std;
