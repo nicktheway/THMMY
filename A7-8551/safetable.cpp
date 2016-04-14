@@ -1,7 +1,7 @@
 /**
 * calendar.cpp
 * Προγραμματιστικές Τεχνικές, 7η εργασία
-* Διεπιφάνεια των κλάσεων safetable και MyOutofBoundException
+* Υλοποίηση των κλάσεων safetable και MyOutofBoundException
 * Νικόλαος Κατωμέρης, 8551
 * 30/11/2015
 */
