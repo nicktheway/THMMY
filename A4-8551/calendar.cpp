@@ -9,7 +9,7 @@
 #include "calendar.h"
 #include <iostream>
 
-const int calendar::days[] = { 0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 }; //Áñéèìüò çìåñþí êÜèå ìÞíá
+const int calendar::days[] = { 0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 }; //Πίνακας με τον αριθμό ημερών κάθε μήνα
 
 calendar::calendar(){
 	day = new int;
